@@ -16,5 +16,5 @@ Abstract:<br>
 客戶由於一些損失和其他問題而從銀行撤回帳戶，藉由數據分析、機器學習模型及XAI，幫助我們了解客戶撤回銀行帳戶的原因。<br>
 
 資料：<br>
-[Churn Modeling.csv](https://github.com/teng-yu-an/Bank-Customer-Churn-with-XAI/blob/main/Churn%20Modeling.csv)<br>
+[Churn Modeling.csv](https://github.com/teng-yu-an/Bank-Customer-Churn-with-XAI/blob/main/Churn_Modeling.csv)<br>
 ```資料來源：https://www.kaggle.com/datasets/santoshd3/bank-customers```
